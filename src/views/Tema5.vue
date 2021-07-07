@@ -10,9 +10,9 @@
     
     .row.mb-4
       .col-md-6.mb-4.mb-md-0
-        p.mb-4 Para el desarrollo y construcción del patronaje de prendas de vestir para la línea femenina, se trabajará una serie de conceptos y técnicas en la elaboración de bases y básicos por medio de la aplicación de las medidas anatómicas y el manejo de incremento entre tallas, por medio del escalado.  Las bases en patronaje son el calco del cuerpo para prendas superiores e inferiores, estos patrones no pueden ser utilizados para ser cortados de forma inmediata en tela o utilizados para elaborar una prenda, ya que antes deben recibir adaptaciones (desahogos, amplitudes, cortes y otros) para proceder a ser utilizados en producción. De la calidad del mismo dependerá la estabilidad dimensional del patrón y el buen calce de la prenda una vez confeccionada.
+        p.mb-4 Para el desarrollo y construcción del patronaje de prendas de vestir para la línea femenina, se trabajará una serie de conceptos y técnicas en la elaboración de bases y básicos, por medio de la aplicación de las medidas anatómicas y el manejo de incremento entre tallas, por medio del escalado.  Las bases en patronaje son el calco del cuerpo para prendas superiores e inferiores, estos patrones no pueden ser utilizados para ser cortados de forma inmediata en tela o utilizados para elaborar una prenda, ya que antes deben recibir adaptaciones (desahogos, amplitudes, cortes y otros) para proceder a ser utilizados en producción. De la calidad del mismo dependerá la estabilidad dimensional del patrón y el buen calce de la prenda una vez confeccionada.
         .cajon.color-acento-contenido.p-4
-          p Los patrones bases o básicos se crean según el tipo de prenda, como se observa en la siguiente figura
+          p Los patrones bases o básicos se crean según el tipo de prenda, como se observa en la siguiente figura:
       .col-md-6.mb-4.mb-md-0
         .row.justify-content-center.mb-4
           .col-8
@@ -32,7 +32,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img02.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Para comenzar el proceso en construcción de moldes, se recomienda partir con patrones o levantamientos más simple; de tal manera que sea fácil comprender el sistema que se desarrollará en este esquema. La falda básica es el primer estilo, porque es la prenda más simple. A través de estas líneas, se asimila la utilización correcta cada regla de costura, obteniendo así una mayor seguridad para manejar los siguientes estilos.
+            p.mb-0 Para comenzar el proceso en construcción de moldes, se recomienda partir con patrones o levantamientos más simples; de tal manera que sea fácil comprender el sistema que se desarrollará en este esquema. La falda básica es el primer estilo, porque es la prenda más simple. A través de estas líneas, se asimila la utilización correcta de cada regla de costura, obteniendo así una mayor seguridad para manejar los siguientes estilos.
             p Medidas a utilizar para el trazo de la falda: contorno de cintura, contorno de cadera y largo de falda.
     
     .h5.mb-4 Trazado de la falda básica
@@ -40,7 +40,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4.mb-md-0
         .cajon.color-acento-contenido.p-4
-          p Analizar la tipología de la falda a desarrollar es importante para determinar qué medida de largo se necesita para generar el rectángulo de inicio para el levantamiento del molde; para lo cual también será importante conocer los siguientes aspectos:
+          p Analizar la tipología de la falda a desarrollar es importante para determinar qué medida de largo se necesita para generar el rectángulo de inicio y luego el levantamiento del molde; para lo cual también será importante conocer los siguientes aspectos:
 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-md-0
@@ -113,7 +113,7 @@
       .col-lg-5.mb-4.mb-md-0
         img(src='@/assets/curso/tema5/img05.png')
     
-    p.mb-4 En el siguiente repositorio de podrá encontrar información asociada a las variaciones de la falda en donde se tienen en cuenta las diversas posibilidades de variación en los patrones de esta prenda:
+    p.mb-4 En el siguiente repositorio de podrá encontrar información asociada a las variaciones de la falda, en donde se tienen en cuenta las diversas posibilidades de variación en los patrones de esta prenda:
 
     .row.justify-content-center.mb-4
       .col-lg-4.mb-4.mb-md-0
@@ -145,7 +145,7 @@
     .bloque-texto-a.color-acento-contenido.p-4.p-md-0.mb-5 
       .row.m-0.align-items-center
         .col-lg-7.mb-4.mb-lg-0
-          p.mb-0 El manejo de volúmenes es uno de los principales factores diferenciadores en el desarrollo de prendas, los cuales se consiguen por medio de las pinzas y sistemas de ajustes, los cuales se deben tener en cuenta que sin importar la línea que se trabaje, la metodología del manual y los pasos, siempre serán los mismos, este orden secuencial le permite tener una mayor y mejor apropiación de la metodología.
+          p.mb-0 El manejo de volúmenes es uno de los principales factores diferenciadores en el desarrollo de prendas, estos se consiguen por medio de las pinzas y sistemas de ajustes, los cuales se deben tener en cuenta que, sin importar la línea que se trabaje, la metodología del manual y los pasos, siempre serán los mismos; este orden secuencial le permite tener una mayor y mejor apropiación de la metodología.
         .col-lg-5
           img(src='@/assets/curso/tema5/img06.svg')
       
@@ -218,7 +218,7 @@
                     td.text-center 12
                     td.text-center 14
                     td.text-center 16
-            p.mb-4 En función al volumen del tejido los anteriores valores pueden ser ajustados de la siguiente manera, los cuales son aplicados al contorno.
+            p.mb-4 En función al volumen del tejido, los anteriores valores pueden ser ajustados de la siguiente manera, y son aplicados al contorno.
             .row.m-0.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
                 .tabla-a.color-acento-contenido.mb-5 
@@ -267,7 +267,7 @@
 
       .row.justify-content-center(titulo="Pinza correctiva de talle")
         .col-lg-10.mb-4.mb-lg-0
-          p.mb-4 En el momento que se unen por los básicos delantero y posterior por la línea de la cintura, se evidencia el desnivel anatómico entre estos, es de aquí que surge esta pinza como una marca de referencia principal, para generar volúmenes o ajustes sobre el cuerpo.  Permite ser trasladada o llevada a diferentes puntos del cuerpo, permitiendo así acentuar volúmenes, generar siluetas o estructuras que permiten modificar diseños. Según la interpretación queda invisible o visible a propósito.
+          p.mb-4 En el momento que se unen los básicos delantero y posterior por la línea de la cintura, se evidencia el desnivel anatómico entre estos, es de aquí que surge esta pinza como una marca de referencia principal, para generar volúmenes o ajustes sobre el cuerpo. Permite ser trasladada o llevada a diferentes puntos del cuerpo, permitiendo así acentuar volúmenes, generar siluetas o estructuras que permiten modificar diseños. Según la interpretación queda invisible o visible a propósito.
           ul.lista-ul--color.mb-4
             li 
               i.fas.fa-atom 
@@ -283,7 +283,7 @@
                     img(src='@/assets/curso/tema5/img08.svg')
                   .col-lg-8.mb-4.mb-lg-0
                     strong Tener en cuenta: 
-                    | Todas las pinzas deben terminar antes del punto de busto (punto giratorio), nunca deben traspasar dicho punto.
+                    |  todas las pinzas deben terminar antes del punto de busto (punto giratorio), nunca deben traspasar dicho punto.
               
           .h5.mb-4 Técnicas de transformación
             p.mb-4 Estas técnicas hacen referencia a métodos que permiten el desplazamiento de las pinzas y su reubicación. Veamos las dos más utilizadas:
@@ -334,10 +334,10 @@
 
       .row.justify-content-center(titulo="Análisis y trazo de sistema de ajuste. (Pinzas y cortes)")
         .col-lg-10.mb-4.mb-lg-0
-          p.mb-4 Dentro del desarrollo de moldes y patrones, se hace indispensable el manejo de pinzas, como sistema de ajuste o como insumo principal para el manejo de volúmenes, las pinzas en femenino son un punto de partida primordial y especifico el cual es necesario comprender desde la base funcional estructural y matemática.
+          p.mb-4 Dentro del desarrollo de moldes y patrones, se hace indispensable el manejo de pinzas, como sistema de ajuste o como insumo principal para el manejo de volúmenes, las pinzas en femenino son un punto de partida primordial y específico, el cual es necesario comprender desde la base funcional estructural y matemática.
           p.mb-4 Para comprender el funcionamiento de las pinzas, se trabajará únicamente la parte superior femenina, contemplando la circunferencia y el volumen del busto, de igual manera el contorno de cintura y el contorno de cadera, cada uno de estos contornos maneja características como volúmenes más protuberantes de los tops o los bottoms y punto unión o encuentro entre la división del cuerpo.
           p.mb-4 En el manejo de pinzas únicamente se trabajará con los contornos relevantes o que se toman como punto de partida para la construcción de básicos (contorno de busto – contorno de cintura – contorno de cadera).
-          p.mb-4 Sin importar el tipo de prenda, los desahogos o la interpretación, las pinzas como sistema de ajuste siempre se trabajarán sobre esos contornos debido a que son los contornos con los que se trabaja la base o el básico. Veamos un video explicativo sobre cómo se hace el trazo de sistemas de ajuste de pinzas y cortes.
+          p.mb-4 Sin importar el tipo de prenda, los desahogos o la interpretación, las pinzas como sistema de ajuste siempre se trabajarán sobre esos contornos, debido a que son los contornos con los que se trabaja la base o el básico. Veamos un video explicativo sobre cómo se hace el trazo de sistemas de ajuste de pinzas y cortes.
           .row.justify-content-center.mb-4
             .col-lg-7.mb-4.mb-lg-0 
             .col-lg-5.mb-4.mb-lg-0 
@@ -386,7 +386,7 @@
                         | Después de su construcción, se aplican desahogos, traslado de pinza correctiva de talle, sistema de cierre y complementos de diseño (almillas, bolsillo de parche).
                       li 
                         i.fas.fa-atom 
-                        | Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases superiores, se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa. 
+                        | Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases superiores, se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
           p.mb-4 A continuación, se presentan las variaciones de los patrones básicos para el vestido:
           .row.justify-content-center
             .col-lg-11.mb-4.mb-lg-0
@@ -419,15 +419,15 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.mb-4.mb-lg-0 
-        p.mb-4 Cuando se habla de una base inferior, se refiere a una copia de la horma del cuerpo que parte de la cintura hasta el suelo, dicha base, será la plantilla que se adecuará para convertirse en diferentes tipologías según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos de short, Capri, jean, bermudas, entre otros.
+        p.mb-4 Cuando se habla de una base inferior, se refiere a una copia de la horma del cuerpo que parte de la cintura hasta el suelo, dicha base, será la plantilla que se adecuará para convertirse en diferentes tipologías según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos de short, capri, jean, bermudas, entre otros.
         .cajon.color-primario.p-4.mb-4
           .row
             .col-lg-2.mb-4.mb-lg-0
               img(src='@/assets/curso/tema5/img08.svg')
             .col-lg-8.mb-4.mb-lg-0
               .h4.mb-4 Tener en cuenta
-              p La base de pantalón sale en plano montado trazando primero la parte delantera y sobre el delantero trazando el posterior. Esto se debe a que varias de las medidas curvas y demás son tomadas de la referencia del trazo del delantero.
-        p La base de pantalón para la línea femenina, sale con margen de costura. En este caso, aunque es un básico se trabaja con margen de costura, con el fin de manejar los desniveles de medida para la horma, el caso está en diferenciar y entender por qué y cómo del margen de costura. Para lograr identificar o entender el margen de costura, es necesario identificar los contornos por los que va pasando el pantalón (contorno de cintura, contorno de cadera, contorno de rodilla y contorno de bota).
+              p La base del pantalón sale en plano montado trazando primero la parte delantera y sobre el delantero trazando el posterior. Esto se debe a que varias de las medidas curvas y demás son tomadas de la referencia del trazo del delantero.
+        p La base de pantalón para la línea femenina sale con margen de costura. En este caso, aunque es un básico se trabaja con margen de costura, con el fin de manejar los desniveles de medida para la horma, el caso está en diferenciar y entender por qué y cómo del margen de costura. Para lograr identificar o entender el margen de costura, es necesario identificar los contornos por los que va pasando el pantalón (contorno de cintura, contorno de cadera, contorno de rodilla y contorno de bota).
       .col-lg-4.mb-4.mb-lg-0
         img(src='@/assets/curso/tema5/img12.png')
     
@@ -435,7 +435,7 @@
       .col-lg-4.mb-4.mb-lg-0
         img(src='@/assets/curso/tema5/img13.svg')
       .col-lg-8.mb-4.mb-lg-0
-        p.mb-4 Al identificar cada uno de los contornos, se podrían categorizar, como contornos completos cintura y cadera, contornos que deben repetirse o marcarse dos veces sobre el cuerpo, rodilla y bota, esto se debe a la división del cuerpo en las extremidades inferiores. Teniendo en cuenta la introducción anterior, es importante aclarar que en los contornos se identifica aumento de costura por:
+        p.mb-4 Al identificar cada uno de los contornos, se podrían categorizar como contornos completos, cintura y cadera, contornos que deben repetirse o marcarse dos veces sobre el cuerpo, rodilla y bota, esto se debe a la división del cuerpo en las extremidades inferiores. Teniendo en cuenta la introducción anterior, es importante aclarar que en los contornos se identifica aumento de costura por:
         ul.lista-ul--color
           li 
             i.fas.fa-atom 
@@ -449,7 +449,7 @@
           li 
             i.fas.fa-atom 
             | Costado delantero, costado posterior, entrepierna delantera y entrepierna posterior.
-        p En este caso para poder trabajar el margen de costura de manera lineal se elabora únicamente con una de las extremidades inferiores, es decir la mitad del cuerpo, para lograr cubrir el contorno de pierna sin inconveniente.
+        p En este caso, para poder trabajar el margen de costura de manera lineal se elabora únicamente con una de las extremidades inferiores, es decir, la mitad del cuerpo, para lograr cubrir el contorno de la pierna sin inconvenientes.
 
     p.mb-4 La sumatoria de los márgenes de costura depende del tipo de maquinaría y operación que se trabaje en la empresa, sin embargo, el común denominador del margen de costura se asigna de 1 cm, es decir que, si se trabaja cada uno de los puntos de referencia, para asignar margen de costura, quedaría de la siguiente manera:
 
@@ -490,7 +490,9 @@
                   p 4 cm de margen de costura por rodilla y bota
     
     p.mb-4 Ya teniendo claro cómo funciona cada uno de los puntos, márgenes de costura y plano del pantalón, lo primero que se debe hacer es el trazo del rectángulo base. Para este rectángulo, se debe trabajar el contorno más protuberante y el largo más largo de las partes que se va a cubrir o en este caso, la intersección entre extremidades inferiores y contornos generales del cuerpo.
-    p.mb-5 En los patrones de pantalón femenino dependiendo de la tipología se adecuan ampliaciones, largos y cortes donde dan lugar a la creación de otros básicos que pueden ser utilizados para ser cortados en la tela. Para introducirnos en la comprensión de este tema se recomienda revisar el siguiente material:
+    p.mb-5 En los 
+      strong  patrones de pantalón femenino 
+      | dependiendo de la tipología se adecuan ampliaciones, largos y cortes donde dan lugar a la creación de otros básicos que pueden ser utilizados para ser cortados en la tela. Para introducirnos en la comprensión de este tema se recomienda revisar el siguiente material:
     
     .row.justify-content-center.mb-4
       .col-lg-8.mb-4.mb-lg-0
@@ -529,7 +531,7 @@
             strong Anexo. 
             | Manual de patronaje básico para interpretación de diseños. Leer de la página 28 a la 30.
 
-    p.mb-4 También será importante visualizar el siguiente video explicativo sobre cómo realizar la base inferior del pantalón femenino.
+    p.mb-4 También será importante visualizar el siguiente video explicativo, sobre cómo realizar la base inferior del pantalón femenino.
 
     .row.mb-5
       .col-lg-8
@@ -545,7 +547,7 @@
       .col-lg-6.d-flex.mb-4.mb-lg-0
         .cajon.color-acento-contenido.p-4
           .h4.mb-4 Variantes de pantalón femenino
-          p.mb-4 Según modificaciones de largos, amplitudes, detalles y cortes. Se pueden obtener los básicos inferiores. Las medidas de largos se deben tomar desde la cintura hasta el punto de la pierna que lo sugiera el diseño.
+          p.mb-4 Según modificaciones de largos, amplitudes, detalles y cortes, se pueden obtener los básicos inferiores. Las medidas de largo se deben tomar desde la cintura hasta el punto de la pierna que lo sugiera el diseño.
           p.mb-4 En los siguientes recursos podremos apreciar las diferentes variantes del pantalón femenino.
           .row.justify-content-center
             .col-lg-10.mb-4.mb-lg-0
@@ -574,7 +576,7 @@
     
     .row.align-items-center.mb-4
       .col-lg-6.mb-4.mb-lg-0
-        p.mb-4 En el patronaje las mangas van conectadas no solo al tamaño de los brazos sino también a la postura de la persona, estos son factores que se deben tener en cuenta desde el análisis antropométrico.
+        p.mb-4 En el patronaje, las mangas van conectadas no solo al tamaño de los brazos sino también a la postura de la persona, estos son factores que se deben tener en cuenta desde el análisis antropométrico.
         p.mb-4 Cuando se habla de manga, básicamente se entiende o identifica como una pieza circular que cubre el brazo, sin embargo, existen diferentes tipos de puntos a tener en cuenta:
         ul.lista-ul--color
           li 

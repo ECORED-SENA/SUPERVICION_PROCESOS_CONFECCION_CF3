@@ -21,9 +21,9 @@
               img(src='@/assets/curso/tema5/img08.svg')
             .col-lg-8.mb-4.mb-lg-0
               strong Tener en cuenta: 
-              | al desarrollar el modelo o diseño se realiza a partir de la unidad de medida en centímetros, pero si se toma de guía el del manual se encontrará que está en pulgadas la tabla, se recomienda realizar la conversión para facilitar el procesamiento de líneas.
+              | que al desarrollar el modelo o diseño se realiza a partir de la unidad de medida en centímetros, pero si se toma de guía el del manual, se encontrará que está en pulgadas la tabla, se recomienda realizar la conversión para facilitar el procesamiento de líneas.
     
-    p.mb-4 El manejo de siluetas en masculino el manual trabaja sobre dos tipos de siluetas: una clásica y otra Slim fit, si bien el desarrollo de los planos y moldes cumplen con los mismos pasos o el mismo orden secuencial, lo que varían son las fórmulas, específicamente para el desarrollo de los básicos.
+    p.mb-4 Para el manejo de siluetas en masculino, el manual trabaja sobre dos tipos de siluetas: una clásica y otra Slim fit, si bien el desarrollo de los planos y moldes cumplen con los mismos pasos o el mismo orden secuencial, lo que varían son las fórmulas, específicamente para el desarrollo de los básicos.
     p.mb-4 Para la implementación y modificación de básicos es importante tener claridad en cada uno de los conceptos de patronaje como, medidas, pasos, elementos y vocabulario técnico que se irá implementando en el desarrollo de los trazos, moldes o planos. En este punto, para la implementación de los básicos se debe tomar como referencia los pasos del patronaje, sobre la metodología utilizada por el SENA.
 
     separador
@@ -33,8 +33,8 @@
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-md-0
         .cajon.color-primario.p-4.mb-4
-          p.mb-4 Cuando se habla de la base superior, es la copia de la horma del cuerpo partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
-        p Lo primero a tener en cuenta, es en el manejo de los básicos, dependiendo del tipo de silueta en este caso se sugiere trabajar el básico de silueta Slim fit. En este proceso de aprendizaje encontrará un plano de referencia e identificará sistemas de cierre y complementos. Para dar inicio al trazo, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
+          p.mb-4 Cuando se habla de la base superior, es la copia de la horma del cuerpo, partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera, según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
+        p Lo primero a tener en cuenta, es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta Slim fit. En este proceso de aprendizaje encontrará un plano de referencia e identificará sistemas de cierre y complementos. Para dar inicio al trazo, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
       .col-lg-1
       .col-lg-4.mb-4.mb-md-0
         .titulo-sexto.color-acento-contenido
@@ -79,7 +79,7 @@
         .cajon.color-acento-contenido.p-4.mb-4
           .row.justify-content-center
             .col-lg-10
-              p.mb-4 Partiendo del patrón base superior masculino, se pueden aplicar modificaciones como amplitudes, cortes, largos que generar el nacimiento de otros moldes básicos que a través de la interpretación desde el diseño se obtienen las prendas masculinas en tipologías superiores.
+              p.mb-4 Partiendo del patrón base superior masculino, se pueden aplicar modificaciones como amplitudes, cortes y largos que generan el nacimiento de otros moldes básicos, y a través de la interpretación desde el diseño, se obtienen las prendas masculinas en tipologías superiores.
           .row.justify-content-center
             .col-lg-6
               .titulo-sexto.color-acento-contenido
@@ -93,8 +93,8 @@
 
     .row.align-items-center.mb-4
       .col-lg-7.mb-4.mb-md-0
-        p.mb-4 Para la elaboración de la camisa masculina se pueden utilizar las medidas del cliente y seguir el paso a paso del esquema. Como esta tipología no es de silueta muy ajustada se puede apoyar de la tabla de medidas anatómicas masculinas estandarizadas tomando como referencia el contorno más amplio de la persona. Después de su construcción, se aplican desahogos, sistema de cierre y complementos de diseño (almillas, bolsillo de parche). 
-        p.mb-4 Para el trazo de camisa clásica en el esquema, se encuentra un plano de referencia, en donde se identifican elementos como desahogos, sistemas de cierre y complementos (almillas, prenses, bolsillo de parche) solo se toma como una guía o una referencia de cómo se puede implementar la base, no hace referencia a especificaciones o estándares para el trazo de una camisa, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen, tiene unas referencias específicas, las cuales van de la mano a todos los conceptos de diseño o requerimientos que se entregan para producción. 
+        p.mb-4 Para la elaboración de la camisa masculina se pueden utilizar las medidas del cliente y seguir el paso a paso del esquema. Como esta tipología no es de silueta muy ajustada, se puede apoyar de la tabla de medidas anatómicas masculinas estandarizadas, tomando como referencia el contorno más amplio de la persona. Después de su construcción, se aplican desahogos, sistema de cierre y complementos de diseño (almillas, bolsillo de parche).
+        p.mb-4 Para el trazo de camisa clásica en el esquema, se encuentra un plano de referencia, en donde se identifican elementos como desahogos, sistemas de cierre y complementos (almillas, prenses, bolsillo de parche), solo se toma como una guía o una referencia de cómo se puede implementar la base, no hace referencia a especificaciones o estándares para el trazo de una camisa, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen, tiene unas referencias específicas, las cuales van de la mano a todos los conceptos de diseño o requerimientos que se entregan para producción.
         p.mb-4 Con el fin de referenciar y contextualizar la implementación, recuerde que, aunque en el manual se identifica un plano separado, se sugiere trabajar siempre en plano unido, con el fin de validar medidas como largos o proporciones referenciadas en el diseño.
         p Para dar inicio al trazo desde los básicos, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción, en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
       .col-lg-4.mb-4.mb-md-0
@@ -147,7 +147,7 @@
                     | Para el largo de la manga se identifican referencias o disminuciones dependiendo del comportamiento y ancho de puño.
                   li 
                     i.fas.fa-atom 
-                    | Para el desarrollo de la portañuela, prenses, pliegues y demás complementos de la manga se debe tener en cuenta siempre el diseño y la referencia de la prenda.
+                    | Para el desarrollo de la portañuela, prenses, pliegues y demás complementos de la manga, se debe tener en cuenta siempre el diseño y la referencia de la prenda.
                   li 
                     i.fas.fa-atom 
                     | Para el trazo de cuellos, se debe tener siempre la referencia del tipo de cuello, medidas de cada uno de los escotes y el plano de la prenda con la que se va trabajar.
@@ -223,7 +223,7 @@
             li 
               i.fas.fa-atom 
               | La base de pantalón en masculina, sale sin margen de costura.
-        p.mb-4 En este caso, el manual sugiere trabajar la base de pantalón sin margen de costura, sin embargo, se puede trabajar de cualquier manera, es decir se puede implementar el cuadro de margen de costura, trabajado en infantil, o se puede hacer el trazo tal cual como indica el manual.
+        p.mb-4 En este caso, el manual sugiere trabajar la base de pantalón sin margen de costura, sin embargo, se puede trabajar de cualquier manera, es decir, se puede implementar el cuadro de margen de costura, trabajado en infantil, o se puede hacer el trazo tal cual como indica el manual.
       .col-lg-6.mb-4.mb-md-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 21. 
@@ -247,7 +247,7 @@
           .col-md-6.mb-4.mb-md-0
             .h4.mb-4 Trazo del pantalón clásico masculino
             p.mb-4 Para el trazo de pantalón clásico, por medio del plano de referencia, se construye partiendo de la base inferior y se transforman aplicando desahogos, sistemas de cierre y complementos (prenses, bolsillo – boca, fondo, falso y vista de bolsillo. Bolsillo de ribete, pretina recta) para el trazo de un pantalón formal o clásico, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen, tiene unas referencias específicas, las cuales van de la mano a todos los conceptos de diseño o requerimientos que se entregan para producción.
-            p.mb-4 Teniendo en cuenta que el desarrollo del trazo de pantalón clásico, sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño de pantalón desde cero.
+            p.mb-4 Teniendo en cuenta que el desarrollo del trazo de pantalón clásico sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño de pantalón desde cero.
             p Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases inferiores de pantalón, se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción, en prendas inferiores, la línea de aplome o línea base será la línea de altura de cadera o tiro.
           .col-md-6.mb-4.mb-md-0
             .row.justify-content-center

@@ -11,7 +11,7 @@
     .row.mb-5
       .col-lg-7.d-flex.mb-4.mb-md-0
         .cajon.color-acento-contenido.p-4
-          p.mb-4 El vestuario está diseñado para dar cobertura al cuerpo, es por ello, que analizar el cuerpo en torno a su estructura y movimiento es de suma importancia para comprender a en qué se fundamenta el patronaje y las diferentes metodologías utilizadas para su realización. Para el desarrollo de prendas de vestuario sobre medidas se hace aún más taxativo comprenderlo pues en el desempeño dentro del sector industrial, se tendrá la necesidad de enfrentarse a diversas siluetas que necesitan ser analizadas dentro de la metodología y el paso a paso que se determina para la elaboración de un patrón.
+          p.mb-4 El vestuario está diseñado para dar cobertura al cuerpo, es por ello, que analizar el cuerpo en torno a su estructura y movimiento es de suma importancia para comprender en qué se fundamenta el patronaje y las diferentes metodologías utilizadas para su realización. Para el desarrollo de prendas de vestuario sobre medidas se hace aún más taxativo comprenderlo, pues en el desempeño dentro del sector industrial, se tendrá la necesidad de enfrentarse a diversas siluetas que necesitan ser analizadas dentro de la metodología y el paso a paso que se determina para la elaboración de un patrón.
           p Teniendo en cuenta lo anterior, se hará un recorrido para lograr entender el cuerpo y su estructura, a partir de los siguientes conceptos en relación con la estructura corporal:
       .col-lg-5.mb-4.mb-md-0
         img(src='@/assets/curso/tema3/img01.png')
@@ -44,7 +44,7 @@
           img(src='@/assets/curso/tema3/img03.svg')
           figcaption Fuente: SENA, 2020
         
-    p.mb-4 En el siguiente video permitirá conocer la estructura corporal, Anatomía, cortes y ejes del cuerpo, antropometría y ergonomía, biomecánica, Somatotipos, doshas, siluetas y evaluación de plomos y posturas.
+    p.mb-4 En el siguiente video se podrá conocer la estructura corporal, anatomía, cortes y ejes del cuerpo, antropometría y ergonomía, biomecánica, somatotipos, doshas, siluetas y evaluación de plomos y posturas.
     
     .row.justify-content-between.mb-4
       .col-lg-8
@@ -78,7 +78,7 @@
     TabsA.color-acento-contenido.mb-5
       .tarjeta.color-primario.p-4(titulo="a) Las medidas sobre el cuerpo")
         h4 a)	Las medidas sobre el cuerpo:
-        p.mb-4 Por lo general se toman sobre los puntos de anclaje del cuerpo teniendo en cuenta los parámetros antropométricos y anatómicos, pasando por los volúmenes (contornos) protuberantes. Se clasifican en tres grupos:
+        p.mb-4 por lo general se toman sobre los puntos de anclaje del cuerpo teniendo en cuenta los parámetros antropométricos y anatómicos, pasando por los volúmenes (contornos) protuberantes. Se clasifican en tres grupos:
         ol.lista-ol--cuadro.mb-5
           li 
             .lista-ol--cuadro__vineta
@@ -107,7 +107,7 @@
 
       .tarjeta.color-primario.p-4(titulo="b) Clasificación y análisis de medidas anatómicas")
         h4 b)	Clasificación y análisis de medidas anatómicas
-        p.mb-4 Esta clasificación está dada según la metodología que se empleará en patronaje para la construcción de prendas, por ello es importante diferenciarlas, para con ello saber qué medidas tomar o no, si es sobre el cliente o solo se utilizan cuadros de tallas estandarizadas.
+        p.mb-4 esta clasificación está dada según la metodología que se empleará en patronaje para la construcción de prendas, por ello es importante diferenciarlas, para así saber qué medidas tomar o no, si es sobre el cliente o solo se utilizan cuadros de tallas estandarizadas.
         .row.justify-content-between.mb-4
           .col-lg-6
           .col-lg-5

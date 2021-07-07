@@ -15,16 +15,16 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema4/img01.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El escalado de tallas hace referencia al proceso que permite la adecuación del patronaje de prendas de vestir partiendo de una base a cada una de las tallas generando incremento o reducción de tamaño para un modelo determinado. El escalado es aplicado por partes, las partes o piezas separadas (moldes) que se originan en el proceso de patronaje que parte de la interpretación de un modelo o diseño, es decir, se escalan por separado las partes o piezas de una camisa, delantero, posterior, cuello, manga y puño, y demás complementos que lo compongan.
+            p.mb-0 El escalado de tallas hace referencia al proceso que permite la adecuación del patronaje de prendas de vestir, partiendo de una base a cada una de las tallas y generando incremento o reducción de tamaño para un modelo determinado. El escalado es aplicado por partes, las partes o piezas separadas (moldes) que se originan en el proceso de patronaje que parte de la interpretación de un modelo o diseño, es decir, se escalan por separado las partes o piezas de una camisa, delantero, posterior, cuello, manga y puño, y demás complementos que lo compongan.
 
-    .h4.mb-4 Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
+    .h4.mb-4  Es indispensable tener clara la terminología que se implementa en este proceso para evitar confundirse en la aplicación de esta metodología:
 
     LineaTiempoD.color-secundario
       p.text-small(numero="1" titulo="Talla prototipo:") es la talla de la cual se parte un escalado, también llamado patrón base, por ejemplo, el básico del corpiño para dama.
       
       p.text-small(numero="2" titulo="Talla Limite:") es la talla escalada y para la cual se implementaron medidas específicas para poder obtener dicha pieza incrementada o reducida.
       
-      p.text-small(numero="3" titulo="Foco de proyección:") punto hallado a numéricamente y donde se partirán las líneas a proyectar.
+      p.text-small(numero="3" titulo="Foco de proyección:") punto hallado numéricamente y donde se partirán las líneas a proyectar.
       
       p.text-small(numero="4" titulo="Constante:") Punto para hallar la longitud de los moldes.
 
@@ -49,7 +49,7 @@
     #t_4_1.titulo-segundo
       .h4 4.1 Tipos de escalado
     
-    p.mb-4 Aunque se establece en el patronaje industrial una metodología universal para el escalado, de este se derivan varios tipos de escalado, dado que cada empresa o fabrica personaliza su cuadro de tallas o medidas a partir de las necesidades que cubren a sus públicos objetivos.
+    p.mb-4 Aunque se establece en el patronaje industrial una metodología universal para el escalado, de este se derivan varios tipos de escalado, dado que cada empresa o fábrica personaliza su cuadro de tallas o medidas a partir de las necesidades que cubren a sus públicos objetivos.
 
     p.mb-4 A continuación, se presentan los cuatro (4) tipos de escalado más utilizados en la industria de la confección:
 
@@ -92,7 +92,7 @@
             p
               strong Incremento: 
               | el crecimiento de talla por talla en cada uno de los apartados de las medidas antropométricas.
-        p Una vez esto es analizado y determinado da como resultado los valores, proporciones y rupturas de las tallas. Revisemos este proceso a profundidad: 
+        p Una vez esto es analizado y determinado da como resultado los valores, proporciones y rupturas de las tallas. Revisemos este proceso a profundidad:
       .col-md-5.mb-4.mb-md-0
         figure.mb-4
           img(src='@/assets/curso/tema4/img06.svg')

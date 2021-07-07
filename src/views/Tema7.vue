@@ -10,11 +10,11 @@
     
     .row.align-items-center.mb-4
       .col-lg-6.mb-4.mb-md-0
-        p.mb-4 Cuando se va a iniciar con el proceso de escalado, se debe tener en cuenta referencias como cuadros de tallas, metodología y lógica de construcción, pieza o molde que se va escalar, es decir en este caso se hace referencia a una base inferior de falda, quiere decir un molde que no tiene margen de costura, ni es una prenda, se trabajará el escalado de una base en las diferentes tallas, de igual manera se debe tener en cuenta el tipo de escalado que se va a trabajar, los aumentos y disminuciones por talla.
+        p.mb-4 Cuando se va a iniciar con el proceso de escalado, se debe tener en cuenta referencias como cuadros de tallas, metodología y lógica de construcción, pieza o molde que se va escalar, es decir, en este caso se hace referencia a una base inferior de falda, quiere decir un molde que no tiene margen de costura, ni es una prenda, se trabajará el escalado de una base en las diferentes tallas, de igual manera se debe tener en cuenta el tipo de escalado que se va a trabajar, los aumentos y disminuciones por talla.
         ul.lista-ul--color
           li 
             i.fas.fa-atom 
-            | Hacer el análisis de diferencia por talla e identificar la medida aplicar en el escalado.
+            | Hacer el análisis de diferencia por talla e identificar la medida a aplicar en el escalado.
           li 
             i.fas.fa-atom 
             | Hacer el análisis de los puntos de escalado que se van a referenciar o modificar.
@@ -99,14 +99,6 @@
               .anexo__texto
                 strong Anexo. 
                 | Escalado Bibásico Análisis: Base superior masculina
-
-
-
-
-        
-
-
-
 
 </template>
 
