@@ -42,21 +42,25 @@
         .cajon.color-acento-contenido.p-4
           p Analizar la tipología de la falda a desarrollar es importante para determinar qué medida de largo se necesita para generar el rectángulo de inicio y luego el levantamiento del molde; para lo cual también será importante conocer los siguientes aspectos:
 
-    .row.justify-content-center.mb-5
-      .col-lg-6.mb-4.mb-md-0
+    .row.mb-5
+      .col-lg-6.d-flex.mb-4.mb-md-0
         .tarjeta.color-secundario.p-4
-          .h2.text-white.text-center.mb-4  Longitud de las faldas
-          p.text-white.text-center.mb-4 La longitud de la falda puede ser variada: minifalda, maxi falda, hasta la rodilla y hasta el suelo.
-          .h5.text-white.text-center.mb-4  Figura 9. Longitud de la falda
+          .row.justify-content-center
+            .col-lg-9.mb-4.mb-md-0
+              .h1.text-white.text-center.mb-5  Longitud de las faldas
+              p.text-white.text-center.mb-5 La longitud de la falda puede ser variada: minifalda, maxi falda, hasta la rodilla y hasta el suelo.
+              .h5.text-white.text-center.mb-4  Figura 9. Longitud de la falda
           figure.mb-4
             img(src='@/assets/curso/tema5/img03.png')
             figcaption.text-black Fuente: SENA, 2021
 
       .col-lg-6.mb-4.mb-md-0
         .tarjeta.color-acento-contenido.p-4
-          .h2.text-white.text-center.mb-4  La circunferencia de la cintura
-          p.text-white.text-center.mb-4  a circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura.
-          .h5.text-white.text-center.mb-4  Figura 10. Circunferencia de la cintura
+          .row.justify-content-center
+            .col-lg-9.mb-4.mb-md-0
+              .h1.text-white.text-center.mb-4  La circunferencia de la cintura
+              p.text-white.text-center.mb-4  La circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura.
+              .h5.text-white.text-center.mb-4  Figura 10. Circunferencia de la cintura
           figure.mb-4
             img(src='@/assets/curso/tema5/img04.png')
             figcaption.text-black Fuente: SENA, 2021
@@ -131,7 +135,7 @@
             strong Enlace web. 
             | Modificación de básicos de falda
       .col-lg-4.mb-4.mb-md-0
-        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/handle/11404/4725" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -244,7 +248,7 @@
           p.mb-4 Conozca el paso a paso para la elaboración de estos patrones revisando los siguientes recursos:
           .row.justify-content-center.mb-5
             .col-lg-4.mb-4.mb-lg-0
-              a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/handle/11404/4725" target="_blank")
+              a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=B929C4B6338D41F855E80661E0B9A970?sequence=1" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
@@ -318,9 +322,11 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 12.
                     | Traslados de pinza en base
-                  figure
-                    img(src='@/assets/curso/tema5/img10.png')
-                    figcaption Fuente: SENA, 2021
+                  .row.justify-content-center
+                    .col-lg-9.mb-4.mb-lg-0 
+                      figure
+                        img(src='@/assets/curso/tema5/img10.png')
+                        figcaption Fuente: SENA, 2021
             p.mb-4 Para comprender este proceso podrá ver el video explicativo sobre cómo se hacen traslados de pinza correcta de talles.
             .row
               .col-lg-7.mb-4.mb-lg-0 
