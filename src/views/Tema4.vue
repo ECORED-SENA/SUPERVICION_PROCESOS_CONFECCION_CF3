@@ -22,7 +22,7 @@
     LineaTiempoD.color-secundario
       p.text-small(numero="1" titulo="Talla prototipo") Es la talla de la cual se parte un escalado, también llamado patrón base, por ejemplo, el básico del corpiño para dama.
       
-      p.text-small(numero="2" titulo="Talla Limite") Es la talla escalada y para la cual se implementaron medidas específicas para poder obtener dicha pieza incrementada o reducida.
+      p.text-small(numero="2" titulo="Talla Límite") Es la talla escalada y para la cual se implementaron medidas específicas para poder obtener dicha pieza incrementada o reducida.
       
       p.text-small(numero="3" titulo="Foco de proyección") Punto hallado numéricamente y donde se partirán las líneas a proyectar.
       
@@ -32,7 +32,7 @@
 
       p.text-small(numero="6" titulo="Proporciones") Identificadas de acuerdo al cuadro de tallas o medidas estandarizadas, estas son establecidas por cada empresa o fábrica.
 
-      .row(numero="7" titulo="Plano Cartesiano")
+      .row(numero="7" titulo="Plano cartesiano")
           .col-md-7.mb-4.mb-md-0
             p.text-small.mb-4 Formado por rectas y perpendiculares, cuyo sistema es el que guía el movimiento de cada uno de los puntos o focos así:
             p.text-small La recta horizontal es llamada eje de las abscisas o de las equis (x)
