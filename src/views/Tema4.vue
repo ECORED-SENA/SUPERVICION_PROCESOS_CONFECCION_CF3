@@ -22,7 +22,7 @@
     LineaTiempoD.color-secundario
       p.text-small(numero="1" titulo="Talla prototipo") Es la talla de la cual se parte un escalado, también llamado patrón base, por ejemplo, el básico del corpiño para dama.
       
-      p.text-small(numero="2" titulo="Talla Límite") Es la talla escalada y para la cual se implementaron medidas específicas para poder obtener dicha pieza incrementada o reducida.
+      p.text-small(numero="2" titulo="Talla límite") Es la talla escalada y para la cual se implementaron medidas específicas para poder obtener dicha pieza incrementada o reducida.
       
       p.text-small(numero="3" titulo="Foco de proyección") Punto hallado numéricamente y donde se partirán las líneas a proyectar.
       
